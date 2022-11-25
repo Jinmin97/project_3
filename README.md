@@ -56,12 +56,11 @@ Modelling Process:
 
 **Conclusion:**
 
-> From the top 20 words, other than the top 3 words: 'disney', 'netflix' and 'plus', which probably relates to disneyplus, netflix and disneyplus respectively, the remaining words seem to be quite generic. 
+> From the top 20 words, other than the top 3 words: 'disney', 'netflix' and 'plus', which probably relates to disneyplus, netflix and disneyplus respectively, the remaining words seem to be quite generic.
 
-> The top 2 words is also ~4-5x more important than the 3rd/4th words. 
+> The top 2 words is also ~4-5x more important than the 3rd/4th words.
 
-> This tells us that if our movie reviews do not have 'disney' or 'netflix' in them (which is highly likely since our shows are not on either platforms yet), our model will probably have a hard time classifying the reviews. This would then impact the accuracy of our model. 
-
+> This tells us that if our movie reviews do not have 'disney' or 'netflix' in them (which is highly likely since our shows are not on either platforms yet), our model may possibly have a hard time classifying the reviews. This would possibly impact the accuracy of our model.
 
 **Recommendations:**
 
