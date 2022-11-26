@@ -64,4 +64,8 @@ Modelling Process:
 
 **Recommendations:**
 
-> Improvement to the model could be made by removing the words with high correlation to the subreddit such as 'disney', 'netflix', 'plus'.
+Improvement to the model could be made by:
+
+- Removing words with high correlation to the subreddits such as 'disney', 'netflix', 'plus'
+
+- Adjusting the weights of 'disney', 'netflix' and 'plus'
